@@ -6,8 +6,8 @@ const CONTACTO = {
   correo: 'contabilidad@kraftor.com',
   // Redes sociales: pegar el enlace cuando exista; las vacías no se muestran
   redes: {
-    facebook: '',
-    instagram: '',
+    facebook: 'https://www.facebook.com/ContabilidadKraftor',
+    instagram: 'https://www.instagram.com/contabilidadkraftor/',
     tiktok: '',
     linkedin: '',
   },
